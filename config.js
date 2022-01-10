@@ -11,10 +11,8 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = ''
-gc2 = ''
-gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/HKj01pUAcGrDEWfMaKbqMc', ''] // ganti jadi group lu
+gc1 = 'https://chat.whatsapp.com/HKj01pUAcGrDEWfMaKbqMc'
+global.linkGC = ['https://chat.whatsapp.com/HKj01pUAcGrDEWfMaKbqMc', 'https://chat.whatsapp.com/HKj01pUAcGrDEWfMaKbqMc'] // ganti jadi group lu
 global.owner = ['6289605393009'] // Put your number here //owner eval
 global.kontak = ['6289605393009','0'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
@@ -46,9 +44,9 @@ xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
-kasihcaption = `Nih kak`
-namakontak1 = 'AlyaaXd'
-namakontak2 = 'AlyaaXd'
+kasihcaption = `Nih tod`
+namakontak1 = '𝑄𝑢𝑒𝑒𝑛 𝐵𝑂𝑇𝑍'
+namakontak2 = '𝑄𝑢𝑒𝑒𝑛 𝐵𝑂𝑇𝑍'
 
 //kasihcaption = `Nih tod`
 
